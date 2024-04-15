@@ -1,1 +1,2 @@
 # Strategic-Marketing-for-Personal-Loans
+In this project, Thera Bank aims to enhance its marketing strategies by implementing data-driven customer segmentation techniques. By analyzing demographic, financial, and behavioral data, the bank plans to identify customer groups with a higher likelihood of converting from liability customers to personal loan customers. Using digital channels and personalized messages, the goal is to boost campaign success, trim costs, and strengthen customer retention, leading to increased revenue growth.
